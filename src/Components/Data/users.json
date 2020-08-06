@@ -1,0 +1,24 @@
+[
+  {
+      "name": "Mark Zukerberg",
+      "position": "CTO",
+      "dueBy": "23-Aug-2020",
+      "meeting": "Daily Scrum"
+      
+  },
+  {
+    "name": "Jeff Bezos",
+    "position": "CEO",
+    "dueBy": "10-Aug-2020",
+    "meeting": "Not yet Added"
+  },
+  {
+      
+    "name": "Deepak Shrivastava",
+    "position": "UI Developer",
+    "dueBy": "08-Aug-2020",
+    "meeting": "Completed"
+  }
+]
+
+
